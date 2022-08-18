@@ -1,0 +1,72 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Petals Resorts Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D.label = Petals
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_0.label = 05A04V9581
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_1.label = 6AJBK0451 (8)
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_10.label = KOMA9924 copy
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_11.label = Sk0069 copy
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_2.label = 7AJBK0528 (23)
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_3.label = 09A04V9598
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_4.label = A04V9536
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_5.label = A04V9641
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_6.label = A04V9657
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_7.label = KOMA9662 copy
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_8.label = KOMA9828 copy
+album_9F99E6D1_90E0_8DF2_41DA_2FDA7548539D_9.label = KOMA9917 copy
+panorama_84EA5EFC_8FA5_0D1D_41D6_8A74E019399C.label = Swimming Pool
+panorama_85C4FDDB_8FA5_0F1B_41DA_D9080E03928F.label = Royal Villa
+panorama_85C7653B_8FA5_1F1B_41C7_E8D75D9EB742.label = Balcony - Royal Villa
+panorama_85C77B53_8FA5_0B6A_41D5_8FEE697D1C89.label = Dressing area - Royal Villa
+panorama_85C786A4_8FA5_3D2D_4186_AD5A7A35567C.label = Balcony - Contemporary Cottage
+panorama_85C7A0CA_8FA5_3565_41D8_404BE6DEEBAB.label = Spa
+panorama_85C7A9A9_8FA5_7727_41AE_712CF2684FA8.label = Gym
+panorama_85C7AC31_8FA5_0D27_41C1_FDE3C5327061.label = 10-Petals
+panorama_85C7B450_8FA5_1D65_41BF_44DF00524EE6.label = Contemporary Cottage
+panorama_85C7D3B4_8FA5_1B2D_41D1_D56EA243DFE6.label = Indoor Games
+panorama_85C7EEEA_8FA5_0D25_41C6_9A455A097693.label = Spa
+panorama_85C7F724_8FA5_1B2D_41D7_A3C3BDCB4E0E.label = Entrance
+panorama_85C88114_8FAA_F4ED_419E_4D9CED5695E1.label = Dressing Area - Contemporary Cottage
+panorama_85C88E07_8FAB_0CEB_41C2_964632B800D5.label = Washroom - Contemporary Cottage
+panorama_85C895B3_8FAB_1F2B_41DD_350C2CA0EB4C.label = Dressing Area - Heritage Villa
+panorama_85C8AB2E_8FAB_0B3D_41A2_803BC54EDEDC.label = Walkway to pool and cottages
+panorama_85C8C89E_8FAB_751D_41E1_8204E0D8736F.label = Heritage Villa
+panorama_85C8F2FD_8FAB_351F_41CD_44369DDAC685.label = Washroom - Heritage Villa
+panorama_85C8FA8F_8FAB_15FB_41D8_B39DFEE2F4CE.label = Balcony - Heritage Villa
+panorama_85F8736D_8FA5_FB3F_41C1_D780B6F3FA7C.label = Garden area
+panorama_85F88866_8FA5_352D_41D4_1FA012BF17F1.label = Jacuzzi - Royal Villa
+panorama_9C6418AB_90E0_8456_41B4_2CEE436838A5.label = Restaurant
+panorama_9C65D71F_90E0_8C6E_41A0_9E59765556EE.label = Restaurant
+panorama_9CF77394_90A1_8472_41BB_4BA919A7384F.label = Walkway to pool and cottages
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.petalsresorts.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.petalsresorts.com
